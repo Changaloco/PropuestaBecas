@@ -1,0 +1,28 @@
+{
+  "name": "PropuestaBecas",
+  "version": "1.0.0",
+  "description": "Repositorio de la propuesta del sistema de becas",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Changaloco/PropuestaBecas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Changaloco/PropuestaBecas/issues"
+  },
+  "homepage": "https://github.com/Changaloco/PropuestaBecas#readme"
+}

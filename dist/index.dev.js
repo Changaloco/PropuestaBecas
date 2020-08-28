@@ -1,3 +1,3 @@
 "use strict";
 
-console.lo('kawamas');
+console.log('kawamas');

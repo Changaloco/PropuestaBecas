@@ -1,1 +1,1 @@
-console.lo('kawamas');
+console.log('kawamas');

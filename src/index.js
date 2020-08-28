@@ -1,5 +1,12 @@
 const express = require('express');
 const app = express();
-app.listen(3000,()=>{
-    console.log('Server on port 3000')
+
+//settings
+app.set('port',process.env.PORT|| 3000);
+//Routes
+//Middlewares 
+//Static files
+//STarting the server
+app.listen(app.get('port'),()=>{
+    console.log(`Server on Port ${app.get('port')}`)
 });
